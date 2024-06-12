@@ -1,0 +1,14 @@
+
+target/
+dbt_packages/
+logs/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.env*
